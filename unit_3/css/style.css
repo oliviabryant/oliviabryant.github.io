@@ -1,22 +1,20 @@
+* { margin:0; padding:0; box-sizing:border-box; }
 body {
-	background-image: url(file://localhost/Users/olivia_bryant/Desktop/oliviabryant.github.io/unit_3/images/landing_page_final.jpg);
-	background-size: 1350px 894px;
-	background-repeat: no-repeat;
-	margin-left: 1.5cm;
-}
-
-h1, #slogan {
-	font-family: optima, sans-serif; 
-	color: #e8f0ea;
-}
-
-#slogan {
-	font-size: .1.5em;
-}
-
-section {
 	font-family: helvetica, sans-serif;
-	font-size: 0.8;
+	font-size:16px;
+	line-height:1.2;
+}
+section {
+	padding:4em 0;
+}
+section#splash {
+	background-image: url(../images/landing_page_final.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position:center;
+	color: #e8f0ea;
+	font-size:4em;
+	height:90vh;
 }
 
 
