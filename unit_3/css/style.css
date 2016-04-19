@@ -1,4 +1,4 @@
-* { margin:0; padding:0; box-sizing:border-box; }
+* { margin:8px; padding:0px; box-sizing:border-box; }
 body {
 	font-family: helvetica, sans-serif;
 	font-size:16px;
@@ -19,6 +19,9 @@ section#splash {
 }
 h1 {
 	padding-left: 300px;
+}
+section#about {
+	background:#B0B0B0;
 }
 
 
