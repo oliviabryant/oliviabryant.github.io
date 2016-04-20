@@ -24,6 +24,9 @@ section#splash {
 h1, h2, #slogan, p, ul {
 	margin-left:50px;
 }
+h2{
+	font-size: 30px;
+}
 
 #slogan, h2 {
 	font-family: 'Playfair Display', serif;
