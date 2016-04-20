@@ -1,4 +1,6 @@
-* { margin:8px; padding:0px; box-sizing:border-box; }
+* { margin:0px; padding:0px; box-sizing:border-box; }
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display);
+
 body {
 	font-family: helvetica, sans-serif;
 	font-size:16px;
@@ -17,12 +19,17 @@ section#splash {
 	font-size:4em;
 	height:90vh;
 }
-h1 {
-	padding-left: 300px;
+h1, h2, #slogan, p, ul {
+	margin-left:50px;
 }
-section#about {
-	background:#B0B0B0;
+
+h2 {
+	font-family: "Playfair Display Regular",sans-serif;
 }
+section#description {
+	background-color:rgb(234,234,234);
+}
+
 
 
 
