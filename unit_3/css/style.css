@@ -3,10 +3,9 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway);
 
 body {
-	font-family: helvetica, sans-serif;
+	font-family: 'Raleway', sans-serif;
 	font-size:16px;
 	line-height:1.2;
-	font-family: 'Raleway', sans-serif;
 }
 
 section {
