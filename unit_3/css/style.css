@@ -24,7 +24,7 @@ h1, h2, #slogan, p, ul {
 }
 
 h2 {
-	font-family: "Playfair Display Regular",sans-serif;
+	font-family: 'Playfair Display', serif;
 }
 section#description {
 	background-color:rgb(234,234,234);
