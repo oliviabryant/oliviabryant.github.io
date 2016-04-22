@@ -1,9 +1,9 @@
 * { margin:0px; padding:0px; box-sizing:border-box; }
-@import url(https://fonts.googleapis.com/css?family=Playfair+Display);
-@import url(https://fonts.googleapis.com/css?family=Raleway);
+@import url(https://fonts.googleapis.com/css?family=Lora);
+@import url(https://fonts.googleapis.com/css?family=Roboto);
 
 body {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Roboto', sans-serif;
 	font-size:14px;
 	font-weight:100;
 	line-height:1.2;
@@ -21,17 +21,12 @@ section#splash {
 	font-size:4em;
 	height:90vh;
 }
-h1, h2, #slogan, p, ul {
-	margin-left:50px;
+#slogan, h2, h3 {
+	font-family: 'Lora', serif;
 }
 h2{
 	font-size: 30px;
 }
-
-#slogan, h2 {
-	font-family: 'Playfair Display', serif;
-}
-
 section#description {
 	background-color:rgb(234,234,234);
 }
