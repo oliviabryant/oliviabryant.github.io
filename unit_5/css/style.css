@@ -1,0 +1,68 @@
+* { margin:0px; padding:0px; box-sizing:border-box; }
+@import url(https://fonts.googleapis.com/css?family=Lora);
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size:14px;
+	font-weight:100;
+	line-height:1.2;
+}
+
+section {
+	padding:4em 0;
+}
+section#splash {
+	background-image: url(../images/landing_page_final.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position:center;
+	color: #e8f0ea;
+	font-size:4em;
+	height:90vh;
+}
+#slogan, h2, h3 {
+	font-family: 'Lora', serif;
+}
+h2{
+	font-size: 30px;
+}
+section#description {
+	background-color:rgb(234,234,234);
+}
+
+section#conversations {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+article#time {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+article#adventure {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+article#purpose {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+article#reading {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+section#aboutme {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+
+
+
+
